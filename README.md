@@ -21,7 +21,7 @@ A modern, responsive productivity tracker built with React and Vite to help user
 
 ## 🚀 Live Demo
 
-[Open Productivity Tracker](PASTE_YOUR_VERCEL_URL_HERE)
+Open Productivity Tracker](PASTE_YOUR_VERCEL_URL_HERE](https://productivity-tracker-o800erkpj-m-asadullahs-projects.vercel.app/
 
 ## 💻 Run Locally
 
