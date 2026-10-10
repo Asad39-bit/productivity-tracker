@@ -1,16 +1,45 @@
-# React + Vite
+# Productivity Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern, responsive productivity tracker built with React and Vite to help users organize tasks and track their time.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* Add, complete, and delete tasks
+* Start and pause task timers
+* Manually add time spent on tasks
+* Track daily productivity and streaks
+* Save tasks locally using browser LocalStorage
+* Responsive user interface
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React
+* Vite
+* JavaScript
+* CSS
+* LocalStorage
 
-## Expanding the Oxlint configuration
+## 🚀 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+[Open Productivity Tracker](PASTE_YOUR_VERCEL_URL_HERE)
+
+## 💻 Run Locally
+
+```bash
+git clone https://github.com/Asad39-bit/productivity-tracker.git
+cd productivity-tracker
+npm install
+npm run dev
+```
+
+## 📦 Production Build
+
+```bash
+npm run build
+```
+
+## 👨‍💻 Author
+
+**Asadullah Javed**
+
+GitHub: [@Asad39-bit](https://github.com/Asad39-bit)
